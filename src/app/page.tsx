@@ -1,4 +1,6 @@
-import { MadeWithDjedjito} from "@/components/made-with-dyad";
+import { MadeWithDjedjito } from "@/components/made-with-djedjito";
+
+ 
 
 export default function Home() {
   return (
