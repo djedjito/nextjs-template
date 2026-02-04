@@ -1,4 +1,4 @@
-export const MadeWithDyad = () => {
+export const MadeWithDjedjito = () => {
   return (
     <div className="p-4 text-center">
       <a
